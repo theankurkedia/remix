@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "Remix",
+  "description": "Remix your internet",
+  "action": {
+      "default_popup": "index.html",
+      "default_title": "Remix"
+  }
+}
